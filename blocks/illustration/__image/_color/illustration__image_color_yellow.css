@@ -1,7 +1,14 @@
 .illustration__image_color_yellow {
-  width: 185px;
-  width: 185px;
+  max-width: 185px;
+  max-width: 185px;
   position: absolute;
   bottom: 63px;
   left: 176px;
+}
+
+@media screen and (max-width: 344px) {
+  .illustration__image_color_yellow {
+    bottom: 22px;
+    left: -8px;
+  }
 }

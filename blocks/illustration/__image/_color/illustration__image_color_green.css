@@ -1,7 +1,13 @@
 .illustration__image_color_green {
-  width: 100px;
-  height: 100px;
+  max-width: 100px;
+  max-height: 100px;
   position: absolute;
   bottom: 123px;
   left: 25px;
+}
+
+@media screen and (max-width: 769px) {
+  .illustration__image_color_green {
+    display: none;
+  }
 }

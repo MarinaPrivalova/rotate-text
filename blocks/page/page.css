@@ -1,10 +1,6 @@
 .page {
-  max-width: 1024px;
-  height: 600px;
+  width: 100%;
+  min-width: 320px;
   margin: 0;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  margin: auto;
   font-family: 'Poppins', 'Arial', 'Helvetica', sans-serif;
 }

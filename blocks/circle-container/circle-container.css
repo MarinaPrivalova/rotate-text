@@ -1,6 +1,6 @@
 .circle-container {
   position: relative;
   width: 30%;
-  height: 100%;
-  ;
+  padding-top: 250px;
+  padding-bottom: 250px;
 }

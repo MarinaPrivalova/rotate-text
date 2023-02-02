@@ -11,3 +11,16 @@
   transform-origin: 0 142%;
   opacity: .8;
 }
+
+
+@media screen and (max-width: 769px) {
+  .circle__letter {
+    transform-origin: 0 127%;
+  }
+}
+
+@media screen and (max-width: 470px) {
+  .circle__letter {
+    transform-origin: 0 100%;
+  }
+}

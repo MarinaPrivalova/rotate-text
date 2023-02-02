@@ -1,9 +1,33 @@
 .circle {
   position: absolute;
-  right: 80%;
-  top: 47%;
+  left: 11%;
+  top: 42%;
   width: 230px;
   height: 230px;
   border-radius: 50%;
   transform: translate(-50%, -50%);
+}
+
+@media screen and (max-width: 769px) {
+  .circle {
+    width: 100px;
+    height: 100px;
+    left: 0;
+    top: 35%;
+  }
+}
+
+@media screen and (max-width: 470px) {
+  .circle {
+    width: 50px;
+    height: 50px;
+    left: -15%;
+    top: 24%;
+  }
+}
+
+@media screen and (max-width: 344px) {
+  .circle {
+    left: -43%;
+  }
 }
