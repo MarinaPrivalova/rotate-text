@@ -1,0 +1,4 @@
+.illustration__image {
+  object-fit: cover;
+  object-position: center;
+}

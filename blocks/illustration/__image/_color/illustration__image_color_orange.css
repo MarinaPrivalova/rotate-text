@@ -1,0 +1,13 @@
+.illustration__image_color_orange {
+  width: 150px;
+  height: 150px;
+  position: absolute;
+  top: 19%;
+  left: 10%;
+  animation: rotation-rev 15s reverse linear infinite;
+}
+
+@keyframes rotation-rev {
+  from {transform: rotate(0deg);}
+  to {transform: rotate(360deg);}
+}
