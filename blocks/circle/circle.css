@@ -1,7 +1,7 @@
 .circle {
-  position: fixed;
-  right: 155px;
-  top: 280px;
+  position: absolute;
+  right: 80%;
+  top: 47%;
   width: 230px;
   height: 230px;
   border-radius: 50%;

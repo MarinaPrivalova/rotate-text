@@ -8,12 +8,10 @@
 @import url(../blocks/illustration/__image/_color/illustration__image_color_red.css);
 @import url(../blocks/illustration/__image/_color/illustration__image_color_broun.css);
 @import url(../blocks/illustration/__image/_color/illustration__image_color_purple.css);
-
-
 @import url(../blocks/rotation/rotation.css);
 @import url(../blocks/rotation/_type/rotation_type_reverse.css);
+@import url(../blocks/circle-container/circle-container.css);
 @import url(../blocks/circle/circle.css);
 @import url(../blocks/circle/__text/circle__text.css);
 @import url(../blocks/circle/__letter/circle__letter.css);
-
 @import url(../vendor/normalize.css);
