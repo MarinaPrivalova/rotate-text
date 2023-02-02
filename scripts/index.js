@@ -1,7 +1,7 @@
 /** Расположить слова по кругу */
 function rotateMain(value) {
   const circleText = document.querySelectorAll(".circle__text");
-  deg = -50;
+  deg = 0;
   for (let item of circleText) {
     item.style.transform = `rotate(${deg}deg)`;
     deg += value;

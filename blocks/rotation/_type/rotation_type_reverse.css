@@ -1,0 +1,9 @@
+.rotation_type_reverse {
+  animation: rotation-rev 15s reverse linear infinite;
+}
+
+
+@keyframes rotation-rev {
+  from {transform: rotate(0deg);}
+  to {transform: rotate(360deg);}
+}

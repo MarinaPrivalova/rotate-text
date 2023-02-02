@@ -1,12 +1,13 @@
 .circle__letter {
-  color: #000;
+  color: #191970;
   text-transform: uppercase;
   font-size: 20px;
-  font-weight: 600;
+  font-weight: 900;
   position: absolute;
   left: 50%;
   bottom: 50%;
   width: 0;
-  padding-bottom: 30px;
-  transform-origin: 0 127%;
+  padding-bottom: 65px;
+  transform-origin: 0 142%;
+  opacity: .8;
 }

@@ -1,16 +1,5 @@
 .circle__text {
   position: absolute;
-  left: 50%;
-  top: 50%;
-  transform: translate(-50%, -50%);
-  /*animation: rotation 5s linear infinite;*/
+  left: 38%;
+  top: 46%;
 }
-
-/*@keyframes rotation {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
-}*/
